@@ -1,0 +1,20 @@
+# Tech
+
+A modern technology landing page project built with HTML, CSS, and JavaScript.
+
+## Features
+- Responsive layout
+- Modern tech-inspired UI
+- Clean navigation
+- Service and about sections
+- Contact section
+
+## Project Structure
+- `index.html` — page structure
+- `styles.css` — design and layout
+- `script.js` — small interactive behavior
+
+## Run locally
+1. Install dependencies:
+   ```bash
+   npm install
